@@ -1,0 +1,12 @@
+{
+  "chocolate-chip-cookies": {
+    "title": "Chocolate Chip Cookies",
+    "hero": "https://images-gmi-pmc.edge-generalmills.com/b9272720-c6bf-4288-92f7-43542067af7c.jpg",
+    "link": "https://raw.githubusercontent.com/HovaLabs/recipes/master/markdown/chocolate-chip-cookies.md"
+  },
+  "something-else": {
+    "title": "Something Else",
+    "hero": "https://i.ytimg.com/vi/yTrwmdkdWhI/maxresdefault.jpg",
+    "link": "https://raw.githubusercontent.com/HovaLabs/recipes/master/markdown/chocolate-chip-cookies.md"
+  }
+}
